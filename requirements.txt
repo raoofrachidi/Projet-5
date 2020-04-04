@@ -1,2 +1,2 @@
 mysql.connector==8.0.19
-requests==0.13.9
+requests==2.20.0
